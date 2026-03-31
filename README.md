@@ -15,17 +15,10 @@ Actualmente, el enfoque principal está en la modelación y resolución de nuevo
 
 ---
 
-## ❄️ Curso Intensivo de Invierno – 2025
-
-### 📅 Duración
-- **3 semanas** (lunes a viernes)
-- **13 sesiones** de ayudantía
-- Cada clase dura **1 hora y media**, se realizarán en el **bloque D**
-
-### 📘 Contenido Extra
+## 📘 Contenido Extra
 
 
-## 📄 Contenido de cada ejercicio
+## 📄 Estructura de cada ejercicio
 
 Cada ejercicio se encuentra en su propia carpeta e incluye:
 

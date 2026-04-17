@@ -44,7 +44,7 @@ El sistema debe desplegar un menú interactivo. A continuación se detalla el co
 4.  **Simulación de Combate**: 
     -   Solicita el ID de una `NaveGuerra` (atacante) y el ID de cualquier otra nave (objetivo). 
     -   Aplica el daño basado en el `poderAtaque` de la nave atacante al objetivo.
-5.  **Maniobra de Escaneo (Polimorfismo)**: 
+5.  **Realizar acciones**: 
     -   Ejecuta el método `realizarAccion()` de todas las naves en la lista. Cada tipo de nave debe imprimir o ejecutar un comportamiento distinto basado en su atributo específico.
 6.  **Mover Nave**: 
     -   Solicita el ID de una nave y nuevas coordenadas. 

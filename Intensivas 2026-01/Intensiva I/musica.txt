@@ -1,0 +1,15 @@
+ALBUM,1,Abbey Road,1,1969,2
+CANCION,101,Come Together,4:20,Rock,5
+CANCION,102,Something,3:03,Rock,4
+ALBUM,2,Bocanada,2,1999,2
+CANCION,201,Puente,4:33,Rock,5
+CANCION,202,Paseo Inmoral,5:31,Rock,4
+ALBUM,3,The Dark Side of the Moon,3,1973,2
+CANCION,301,Time,6:53,Progresivo,5
+CANCION,302,Money,6:22,Progresivo,5
+ALBUM,4,Thriller,4,1982,2
+CANCION,401,Billie Jean,4:54,Pop,5
+CANCION,402,Beat It,4:18,Pop,5
+ALBUM,5,La voz de los 80,5,1984,2
+CANCION,501,La voz de los 80,4:08,Rock,5
+CANCION,502,Paramar,3:45,Rock,4

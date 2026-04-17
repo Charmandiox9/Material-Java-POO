@@ -1,0 +1,5 @@
+BANDA,1,The Beatles,1960,4
+SOLISTA,2,Gustavo Cerati,1959,Argentina
+BANDA,3,Pink Floyd,1965,4
+SOLISTA,4,Michael Jackson,1958,USA
+BANDA,5,Los Prisioneros,1979,3

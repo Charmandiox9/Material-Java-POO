@@ -20,19 +20,36 @@ Gemini solo debe utilizar conceptos, herramientas y características de Java que
 - **Librerías Externas**: No utilizar librerías externas (como Jackson, Gson, Lombok, JUnit, etc.) a menos que se especifique en `frameworks.md`.
 - **Manejo de Excepciones**: Utilizar bloques `try-catch` tradicionales y excepciones personalizadas cuando el ejercicio lo requiera.
 
-## 3. Estilo y Convenciones
+## 3. Estructura de Carpetas (Extras)
+Todos los ejercicios nuevos en la carpeta `Extras/` deben seguir obligatoriamente esta jerarquía:
+1. **Tópico**: Carpeta con el nombre del tema (ej. `Herencia`).
+2. **Categoría**: Subcarpetas por nivel de dificultad: `Fácil`, `Intermedio`, `Difícil`, `Integrador`.
+3. **Ejercicio**: Carpeta con el prefijo `EjXX_Nombre` (ej. `Ej01_Vehiculos`).
+4. **Contenido**: Dentro de la carpeta del ejercicio debe existir:
+   - `enunciado.md`: Descripción detallada del problema.
+   - `Solucion.java`: El código fuente completo (incluyendo el `main` de prueba).
+
+## 4. Formato Estándar de Enunciados (`enunciado.md`)
+Los enunciados deben ser visualmente atractivos y seguir esta estructura estricta:
+- **Título**: `# Ejercicio X: Nombre del Ejercicio`
+- **📝 Descripción**: Contexto realista del problema y qué se debe programar. Incluir un bloque `> **Contexto Académico**` explicando por qué es importante.
+- **🎯 Objetivos de Aprendizaje**: Lista de puntos técnicos que el alumno reforzará.
+- **📥 Ejemplo de Entrada**: Bloque de código `text` con los datos sugeridos.
+- **📤 Ejemplo de Salida**: Bloque de código `text` con el resultado esperado por consola.
+- **Footer**: Separador `---` seguido de:
+  - 🕓 **Dificultad**: [Fácil/Intermedio/Difícil/Integrador]
+  - 📚 **Temas**: [Lista de tags]
+
+## 5. Estilo y Convenciones de Código
 - **Nomenclatura**: Seguir las convenciones de Java (camelCase para variables/métodos, PascalCase para clases, UPPER_SNAKE_CASE para constantes).
 - **Documentación JavaDoc**: Todas las clases, interfaces, atributos y métodos (públicos y protegidos) deben incluir bloques JavaDoc (`/** ... */`) detallando su propósito, parámetros (`@param`) y valores de retorno (`@return`).
-- **Comentarios Explicativos**: El código debe incluir comentarios internos (`//`) que expliquen la lógica de bloques complejos, justifiquen decisiones de diseño o aclaren el uso de conceptos de POO.
-- **Estructura de Archivos**: Los ejercicios deben seguir la estructura definida en el `README.md` (enunciado, solución, datos, diagrama).
-- **Idioma**: Toda la documentación, enunciados y comentarios deben estar en **español**, manteniendo la consistencia con el repositorio.
+- **Comentarios Explicativos**: El código debe incluir comentarios internos (`//`) que expliquen la lógica compleja.
+- **Idioma**: Toda la documentación, enunciados y comentarios deben estar en **español**.
 
-## 4. Proceso de Resolución (Enfoque Académico)
-Antes de proponer o implementar una solución a un ejercicio extra:
-1. **Análisis Pedagógico**: La solución debe diseñarse para enseñar un concepto específico (ej. "Cómo aplicar polimorfismo en un sistema de pagos").
-2. **Redacción de Enunciados**: Deben ser claros, con un contexto realista y objetivos de aprendizaje explícitos.
-3. **Desarrollo Explicativo**: La solución no debe ser solo "código que funciona", sino "código que explica". Se debe priorizar la claridad y la correcta aplicación de los principios de diseño (SOLID, GRASP) sobre la optimización extrema o el uso de trucos sintácticos.
-4. **Validación**: Consultar la carpeta `Guias/` y ejemplos existentes para alinear el nivel de complejidad.
+## 6. Proceso de Resolución (Enfoque Académico)
+1. **Análisis Pedagógico**: La solución debe diseñarse para enseñar un concepto específico.
+2. **Dificultad Incremental**: Dentro de una misma categoría, la dificultad debe subir ligeramente. Entre categorías debe haber un salto conceptual claro.
+3. **Ejercicios Integradores**: Deben ser retos de alta complejidad (duración estimada 1h) que combinen el tópico actual con conocimientos de tópicos anteriores (ej. Herencia + Matrices).
 
 ---
-*Nota: Si una guía en `Guias/` está vacía, Gemini debe limitar el uso de ese tópico a sus conceptos fundamentales de POO.*
+*Nota: Este documento es la verdad absoluta para la generación de contenido por parte de la IA.*

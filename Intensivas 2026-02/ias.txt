@@ -1,0 +1,6 @@
+MODELADO,1,Modela3D,CreativaAI,Personajes,SI,5,3,OBJ,STL,FBX
+MODELADO,2,ArquiForma,EspacioDigital,Arquitectura,SI,4,3,OBJ,GLB,FBX
+CODIGO,3,CodePilot,DevAI,Java,SI,SI,AVANZADO,4,Java,Python,JavaScript,C++
+CODIGO,4,DebugMate,ByteWorks,Aplicaciones web,SI,SI,INTERMEDIO,3,Java,Python,SQL
+TEXTO,5,Redactor,PalabraAI,Creativo,Español,3000,SI,3,Español,Inglés,Portugués
+TEXTO,6,AcademiaBot,LexiTech,Académico,Español,5000,NO,4,Español,Inglés,Francés,Alemán

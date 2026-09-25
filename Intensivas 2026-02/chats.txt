@@ -1,0 +1,18 @@
+101,Criaturas del bosque,Diseño de personajes,2018-02-14,1
+102,Robots amigables,Concept art de robots,2021-06-08,1
+103,Guardianes del océano,Personajes fantásticos,2024-03-19,1
+201,Casa en la montaña,Diseño residencial,2016-09-22,2
+202,Museo del futuro,Arquitectura pública,2020-11-05,2
+203,Cabañas sostenibles,Arquitectura ecológica,2025-01-17,2
+301,Aplicación de biblioteca,Desarrollo en Java,2017-04-11,3
+302,Simulador espacial,Programación de videojuegos,2022-08-03,3
+303,Análisis de datos,Procesamiento de datos,2025-02-12,3
+401,Tienda en línea,Depuración de aplicaciones web,2019-05-27,4
+402,Agenda personal,Desarrollo de aplicaciones,2023-07-14,4
+403,Gestor de tareas,Pruebas y mejoras de software,2026-01-09,4
+501,Relatos de viaje,Narración creativa,2015-12-02,5
+502,Historias de ciencia ficción,Escritura de ficción,2021-10-20,5
+503,Poemas para el mar,Poesía,2024-06-16,5
+601,El sistema solar,Material educativo,2013-03-04,6
+602,Historia de la computación,Redacción académica,2020-04-23,6
+603,Energías renovables,Divulgación científica,2025-09-30,6
